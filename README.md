@@ -10,7 +10,6 @@ This is a simple text-based game, "Who Wants to be a Millionaire", developed usi
 - [Code Structure](#code-structure)
 - [How to Play](#how-to-play)
 - [Authors](#authors)
-- [License](#license)
 
 ## Introduction
 
